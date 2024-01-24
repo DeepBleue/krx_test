@@ -1,0 +1,2328 @@
+095570: fluctuation under 35%
+068400: fluctuation under 35%
+084670: fluctuation under 35%
+006840: fluctuation under 35%
+017670: fluctuation under 35%
+030790: high or low price
+027410: fluctuation under 35%
+229640: high flat base
+000660: high or low price
+002900: fluctuation under 35%
+014280: fluctuation under 35%
+282330: high or low price
+023150: fluctuation under 35%
+005610: fluctuation under 35%
+082640: fluctuation under 35%
+014285: fluctuation under 35%
+138930: fluctuation under 35%
+035420: high or low price
+058730: fluctuation under 35%
+011810: fluctuation under 35%
+001525: fluctuation under 35%
+008870: fluctuation under 35%
+001460: high or low price
+181710: fluctuation under 35%
+023590: fluctuation under 35%
+014910: fluctuation under 35%
+077970: fluctuation under 35%
+008970: high or low price
+001570: fluctuation under 35%
+001465: high or low price
+034590: fluctuation under 35%
+019680: fluctuation under 35%
+005940: fluctuation under 35%
+014915: fluctuation under 35%
+175330: fluctuation under 35%
+071970: fluctuation under 35%
+092780: fluctuation under 35%
+002990: fluctuation under 35%
+001040: fluctuation under 35%
+129260: fluctuation under 35%
+005945: fluctuation under 35%
+003080: fluctuation under 35%
+234080: fluctuation under 35%
+084870: fluctuation under 35%
+002995: fluctuation under 35%
+049770: fluctuation under 35%
+079160: fluctuation under 35%
+023810: fluctuation under 35%
+006370: fluctuation under 35%
+034310: fluctuation under 35%
+004980: fluctuation under 35%
+002710: fluctuation under 35%
+011780: high or low price
+018500: fluctuation under 35%
+000120: high or low price
+249420: fluctuation under 35%
+008060: fluctuation under 35%
+008260: fluctuation under 35%
+031430: fluctuation under 35%
+004987: df len problem
+001067: fluctuation under 35%
+024070: fluctuation under 35%
+029780: fluctuation under 35%
+006040: fluctuation under 35%
+011785: fluctuation under 35%
+011150: fluctuation under 35%
+00806K: fluctuation under 35%
+000230: fluctuation under 35%
+004250: fluctuation under 35%
+004989: df len problem
+031440: fluctuation under 35%
+001065: fluctuation under 35%
+037270: fluctuation under 35%
+000810: high or low price
+030720: fluctuation under 35%
+214330: high or low price
+011155: high flat base
+000490: high flat base
+004255: fluctuation under 35%
+013360: fluctuation under 35%
+004985: fluctuation under 35%
+096760: fluctuation under 35%
+000500: fluctuation under 35%
+000815: high or low price
+001210: high or low price
+014820: fluctuation under 35%
+001045: fluctuation under 35%
+008110: fluctuation under 35%
+010060: fluctuation under 35%
+003120: fluctuation under 35%
+005800: fluctuation under 35%
+011300: fluctuation under 35%
+105560: fluctuation under 35%
+000860: fluctuation under 35%
+006110: fluctuation under 35%
+073240: fluctuation under 35%
+097950: high or low price
+014825: fluctuation under 35%
+005750: fluctuation under 35%
+005490: high or low price
+003200: fluctuation under 35%
+001720: fluctuation under 35%
+000180: fluctuation under 35%
+002380: high or low price
+035250: fluctuation under 35%
+145990: fluctuation under 35%
+092440: fluctuation under 35%
+163560: fluctuation under 35%
+097955: high or low price
+000210: fluctuation under 35%
+100840: fluctuation under 35%
+007110: fluctuation under 35%
+001725: fluctuation under 35%
+002420: fluctuation under 35%
+009070: high flat base
+006650: high or low price
+145995: fluctuation under 35%
+000270: fluctuation under 35%
+001530: fluctuation under 35%
+000215: fluctuation under 35%
+064960: fluctuation under 35%
+009270: fluctuation under 35%
+007570: fluctuation under 35%
+004360: fluctuation under 35%
+009440: fluctuation under 35%
+002100: fluctuation under 35%
+001440: fluctuation under 35%
+003230: high or low price
+024110: fluctuation under 35%
+004890: fluctuation under 35%
+000590: fluctuation under 35%
+004440: fluctuation under 35%
+003570: fluctuation under 35%
+009275: df len problem
+007575: fluctuation under 35%
+004365: fluctuation under 35%
+119650: fluctuation under 35%
+009450: fluctuation under 35%
+002170: fluctuation under 35%
+013700: fluctuation under 35%
+002690: fluctuation under 35%
+011090: high or low price
+012030: fluctuation under 35%
+006570: fluctuation under 35%
+036530: fluctuation under 35%
+008500: fluctuation under 35%
+002700: fluctuation under 35%
+004490: fluctuation under 35%
+092220: high flat base
+001790: fluctuation under 35%
+267290: fluctuation under 35%
+272550: fluctuation under 35%
+000020: fluctuation under 35%
+005850: fluctuation under 35%
+016610: fluctuation under 35%
+010950: fluctuation under 35%
+019170: fluctuation under 35%
+081000: fluctuation under 35%
+001430: fluctuation under 35%
+012320: fluctuation under 35%
+001390: fluctuation under 35%
+001799: df len problem
+000070: fluctuation under 35%
+000150: fluctuation under 35%
+005830: fluctuation under 35%
+012750: fluctuation under 35%
+004545: high flat base
+010955: fluctuation under 35%
+019175: fluctuation under 35%
+306200: high or low price
+001795: fluctuation under 35%
+000050: fluctuation under 35%
+001940: fluctuation under 35%
+000075: fluctuation under 35%
+000157: fluctuation under 35%
+023960: fluctuation under 35%
+074610: fluctuation under 35%
+002870: high or low price
+003030: high or low price
+020150: fluctuation under 35%
+001130: high or low price
+214390: fluctuation under 35%
+00499K: fluctuation under 35%
+025000: fluctuation under 35%
+002810: fluctuation under 35%
+011160: df len problem
+000995: df len problem
+298690: fluctuation under 35%
+002410: fluctuation under 35%
+005450: df len problem
+001260: fluctuation under 35%
+101060: df len problem
+019440: fluctuation under 35%
+103590: fluctuation under 35%
+003490: fluctuation under 35%
+012610: fluctuation under 35%
+092230: fluctuation under 35%
+005680: fluctuation under 35%
+241560: fluctuation under 35%
+139130: fluctuation under 35%
+140910: fluctuation under 35%
+096300: df len problem
+293940: fluctuation under 35%
+128820: fluctuation under 35%
+004060: high or low price
+5%
+058650: high or low price
+015860: fluctuation under 35%
+005305: fluctuation under 35%
+003495: fluctuation under 35%
+000040: high or low price
+095720: fluctuation under 35%
+003720: fluctuation under 35%
+000155: fluctuation under 35%
+078520: fluctuation under 35%
+004840: fluctuation under 35%
+007210: fluctuation under 35%
+055550: fluctuation under 35%
+001380: fluctuation under 35%
+226320: fluctuation under 35%
+013000: fluctuation under 35%
+011170: high or low price
+013580: fluctuation under 35%
+044450: fluctuation under 35%
+103130: df len problem
+023000: fluctuation under 35%
+042670: fluctuation under 35%
+155660: fluctuation under 35%
+015260: fluctuation under 35%
+002760: fluctuation under 35%
+016710: fluctuation under 35%
+004270: fluctuation under 35%
+002360: high or low price
+001770: fluctuation under 35%
+091090: fluctuation under 35%
+033240: fluctuation under 35%
+002270: df len problem
+003830: high or low price
+012200: fluctuation under 35%
+030200: fluctuation under 35%
+005820: fluctuation under 35%
+004380: fluctuation under 35%
+034020: fluctuation under 35%
+003850: fluctuation under 35%
+007460: high or low price
+069730: fluctuation under 35%
+003540: fluctuation under 35%
+003920: high or low price
+009160: fluctuation under 35%
+004080: fluctuation under 35%
+021820: fluctuation under 35%
+000950: fluctuation under 35%
+071840: fluctuation under 35%
+016090: fluctuation under 35%
+033780: fluctuation under 35%
+010600: fluctuation under 35%
+002450: fluctuation under 35%
+016740: fluctuation under 35%
+003060: high or low price
+000890: high or low price
+017940: fluctuation under 35%
+003547: fluctuation under 35%
+123700: fluctuation under 35%
+003925: high or low price
+067830: fluctuation under 35%
+194370: fluctuation under 35%
+102280: high or low price
+027740: fluctuation under 35%
+004200: df len problem
+030210: fluctuation under 35%
+069460: fluctuation under 35%
+008600: high or low price
+000520: high flat base
+000520: high current price
+036570: high or low price
+024090: fluctuation under 35%
+007700: fluctuation under 35%
+003545: fluctuation under 35%
+025530: fluctuation under 35%
+002070: fluctuation under 35%
+033530: fluctuation under 35%
+025620: fluctuation under 35%
+003410: fluctuation under 35%
+204320: fluctuation under 35%
+002140: fluctuation under 35%
+058850: high flat base
+033270: fluctuation under 35%
+012510: high flat base
+009770: fluctuation under 35%
+138250: df len problem
+114090: fluctuation under 35%
+001270: fluctuation under 35%
+003160: fluctuation under 35%
+009190: high flat base
+e
+009190: high current price
+025860: fluctuation under 35%
+003415: df len problem
+075580: fluctuation under 35%
+030000: fluctuation under 35%
+001080: fluctuation under 35%
+010130: high or low price
+093050: fluctuation under 35%
+004830: fluctuation under 35%
+014830: fluctuation under 35%
+005500: fluctuation under 35%
+078930: fluctuation under 35%
+092200: fluctuation under 35%
+085310: high or low price
+011790: fluctuation under 35%
+014160: fluctuation under 35%
+001275: fluctuation under 35%
+005720: fluctuation under 35%
+003620: fluctuation under 35%
+271980: fluctuation under 35%
+088980: fluctuation under 35%
+027970: fluctuation under 35%
+002240: fluctuation under 35%
+003550: fluctuation under 35%
+000910: fluctuation under 35%
+004690: fluctuation under 35%
+018670: high or low price
+009810: high or low price
+013570: fluctuation under 35%
+047040: fluctuation under 35%
+005725: fluctuation under 35%
+004770: fluctuation under 35%
+094800: fluctuation under 35%
+034220: fluctuation under 35%
+001290: high or low price
+145210: high flat base
+047400: high flat base
+001880: fluctuation under 35%
+210540: fluctuation under 35%
+015350: df len problem
+900140: fluctuation under 35%
+001250: fluctuation under 35%
+001740: fluctuation under 35%
+002350: fluctuation under 35%
+004920: fluctuation under 35%
+002620: fluctuation under 35%
+068270: high or low price
+001120: fluctuation under 35%
+009290: fluctuation under 35%
+145720: high or low price
+011330: high flat base
+010960: fluctuation under 35%
+007340: fluctuation under 35%
+001745: df len problem
+014440: fluctuation under 35%
+042660: fluctuation under 35%
+007070: fluctuation under 35%
+011390: fluctuation under 35%
+002355: fluctuation under 35%
+138040: fluctuation under 35%
+006220: fluctuation under 35%
+051900: high or low price
+112610: high flat base
+004430: fluctuation under 35%
+077500: fluctuation under 35%
+017040: fluctuation under 35%
+002150: fluctuation under 35%
+004450: fluctuation under 35%
+006120: fluctuation under 35%
+005030: high or low price
+5%
+111770: fluctuation under 35%
+078935: fluctuation under 35%
+003580: high flat base
+008560: df len problem
+051905: high or low price
+089590: fluctuation under 35%
+008700: fluctuation under 35%
+002920: fluctuation under 35%
+017550: fluctuation under 35%
+001620: high or low price
+017900: high flat base
+006125: fluctuation under 35%
+100220: fluctuation under 35%
+115390: fluctuation under 35%
+009970: fluctuation under 35%
+251270: fluctuation under 35%
+000060: df len problem
+002790: fluctuation under 35%
+003555: fluctuation under 35%
+004910: fluctuation under 35%
+002200: fluctuation under 35%
+037710: fluctuation under 35%
+001230: fluctuation under 35%
+210980: fluctuation under 35%
+000430: fluctuation under 35%
+005180: fluctuation under 35%
+032350: fluctuation under 35%
+003520: fluctuation under 35%
+090350: fluctuation under 35%
+002795: fluctuation under 35%
+030610: fluctuation under 35%
+053210: fluctuation under 35%
+001820: fluctuation under 35%
+003470: fluctuation under 35%
+004700: fluctuation under 35%
+032640: fluctuation under 35%
+03473K: high or low price
+003960: fluctuation under 35%
+000400: fluctuation under 35%
+089470: fluctuation under 35%
+006340: fluctuation under 35%
+000670: high or low price
+090355: fluctuation under 35%
+090430: high or low price
+017180: fluctuation under 35%
+000390: fluctuation under 35%
+007690: fluctuation under 35%
+134790: fluctuation under 35%
+003475: fluctuation under 35%
+001550: fluctuation under 35%
+096770: high or low price
+008040: high or low price
+023530: fluctuation under 35%
+294870: fluctuation under 35%
+006740: fluctuation under 35%
+000320: fluctuation under 35%
+006345: fluctuation under 35%
+090435: fluctuation under 35%
+000480: fluctuation under 35%
+012690: fluctuation under 35%
+041650: fluctuation under 35%
+007590: fluctuation under 35%
+005320: high or low price
+016590: fluctuation under 35%
+012280: high or low price
+007160: fluctuation under 35%
+082740: fluctuation under 35%
+003220: fluctuation under 35%
+096775: fluctuation under 35%
+000325: fluctuation under 35%
+005360: fluctuation under 35%
+072130: fluctuation under 35%
+066575: fluctuation under 35%
+029530: fluctuation under 35%
+075180: fluctuation under 35%
+006280: high or low price
+024890: fluctuation under 35%
+014710: fluctuation under 35%
+003560: fluctuation under 35%
+286940: high flat base
+012160: high or low price
+001510: high or low price
+108670: fluctuation under 35%
+002720: fluctuation under 35%
+183190: fluctuation under 35%
+004970: fluctuation under 35%
+007540: fluctuation under 35%
+204210: high flat base
+018470: fluctuation under 35%
+005965: fluctuation under 35%
+002880: high or low price
+006090: fluctuation under 35%
+005250: fluctuation under 35%
+280360: high or low price
+010580: fluctuation under 35%
+015360: fluctuation under 35%
+108675: fluctuation under 35%
+002310: fluctuation under 35%
+083420: high flat base
+002600: high or low price
+011930: fluctuation under 35%
+016380: fluctuation under 35%
+009680: fluctuation under 35%
+079660: df len problem
+005257: fluctuation under 35%
+004990: fluctuation under 35%
+285130: fluctuation under 35%
+007310: high or low price
+035000: fluctuation under 35%
+016385: df len problem
+051910: high or low price
+185750: high or low price
+005390: fluctuation under 35%
+007860: fluctuation under 35%
+014530: fluctuation under 35%
+009580: fluctuation under 35%
+079440: df len problem
+28513K: fluctuation under 35%
+021240: fluctuation under 35%
+005090: fluctuation under 35%
+088790: fluctuation under 35%
+012800: fluctuation under 35%
+083370: df len problem
+020560: fluctuation under 35%
+200880: fluctuation under 35%
+001200: fluctuation under 35%
+051915: high or low price
+004170: high or low price
+5%
+009200: fluctuation under 35%
+063160: fluctuation under 35%
+031820: high or low price
+002630: high or low price
+5%
+168490: high or low price
+001470: fluctuation under 35%
+072710: fluctuation under 35%
+015230: fluctuation under 35%
+083380: df len problem
+035510: fluctuation under 35%
+017390: fluctuation under 35%
+122900: fluctuation under 35%
+000100: fluctuation under 35%
+079550: high or low price
+5%
+005810: fluctuation under 35%
+001630: fluctuation under 35%
+006400: high or low price
+5%
+010640: fluctuation under 35%
+271560: fluctuation under 35%
+097230: fluctuation under 35%
+004410: high or low price
+026960: fluctuation under 35%
+010780: fluctuation under 35%
+034300: fluctuation under 35%
+006260: fluctuation under 35%
+033180: fluctuation under 35%
+044380: high or low price
+284740: fluctuation under 35%
+047810: fluctuation under 35%
+001800: fluctuation under 35%
+006405: high or low price
+100250: fluctuation under 35%
+003480: fluctuation under 35%
+267250: fluctuation under 35%
+033660: df len problem
+002210: fluctuation under 35%
+086790: fluctuation under 35%
+025560: fluctuation under 35%
+013870: fluctuation under 35%
+054620: high flat base
+003460: fluctuation under 35%
+015590: high or low price
+006660: fluctuation under 35%
+123690: fluctuation under 35%
+070960: fluctuation under 35%
+180640: high flat base
+051630: fluctuation under 35%
+005380: high or low price
+101140: fluctuation under 35%
+099340: df len problem
+021050: fluctuation under 35%
+102260: fluctuation under 35%
+071320: fluctuation under 35%
+265520: fluctuation under 35%
+003465: fluctuation under 35%
+003350: fluctuation under 35%
+028260: high or low price
+005387: high or low price
+316140: fluctuation under 35%
+272450: fluctuation under 35%
+264900: fluctuation under 35%
+18064K: fluctuation under 35%
+099350: df len problem
+001780: fluctuation under 35%
+005190: df len problem
+006800: fluctuation under 35%
+439730: spac stock
+se
+327260: fluctuation under 35%
+008730: fluctuation under 35%
+008490: fluctuation under 35%
+011000: fluctuation under 35%
+005389: high or low price
+26490K: fluctuation under 35%
+02826K: fluctuation under 35%
+005110: fluctuation under 35%
+293480: fluctuation under 35%
+442770: spac stock
+002250: df len problem
+00680K: fluctuation under 35%
+139050: fluctuation under 35%
+091340: fluctuation under 35%
+000640: high or low price
+5%
+007610: fluctuation under 35%
+002780: fluctuation under 35%
+005740: fluctuation under 35%
+118000: high or low price
+002390: fluctuation under 35%
+005385: high or low price
+207940: high or low price
+009460: high or low price
+039130: fluctuation under 35%
+006805: fluctuation under 35%
+018250: fluctuation under 35%
+419530: fluctuation under 35%
+025820: fluctuation under 35%
+126600: fluctuation under 35%
+170900: fluctuation under 35%
+136490: fluctuation under 35%
+005745: fluctuation under 35%
+010050: df len problem
+001500: fluctuation under 35%
+032830: fluctuation under 35%
+014790: fluctuation under 35%
+000880: fluctuation under 35%
+467930: df len problem
+085620: fluctuation under 35%
+019550: high or low price
+172580: df len problem
+214320: fluctuation under 35%
+286750: fluctuation under 35%
+014570: fluctuation under 35%
+028100: fluctuation under 35%
+013720: fluctuation under 35%
+006980: fluctuation under 35%
+002785: fluctuation under 35%
+020120: high flat base
+227840: fluctuation under 35%
+095340: fluctuation under 35%
+153360: df len problem
+950110: fluctuation under 35%
+002840: high or low price
+282690: fluctuation under 35%
+121600: high or low price
+088260: fluctuation under 35%
+083790: fluctuation under 35%
+009310: high or low price
+039490: fluctuation under 35%
+027390: df len problem
+028050: fluctuation under 35%
+017370: fluctuation under 35%
+053690: fluctuation under 35%
+001450: fluctuation under 35%
+159650: df len problem
+r 35%
+151910: high or low price
+268280: high or low price
+001520: high or low price
+247660: fluctuation under 35%
+950190: fluctuation under 35%
+035760: fluctuation under 35%
+012170: high or low price
+000650: fluctuation under 35%
+009150: high or low price
+105840: fluctuation under 35%
+088350: fluctuation under 35%
+057050: fluctuation under 35%
+042700: fluctuation under 35%
+036120: fluctuation under 35%
+950170: fluctuation under 35%
+107590: fluctuation under 35%
+001527: fluctuation under 35%
+039860: fluctuation under 35%
+098460: high flat base
+098460: high current price
+007660: fluctuation under 35%
+311690: fluctuation under 35%
+015890: fluctuation under 35%
+012600: fluctuation under 35%
+009155: fluctuation under 35%
+000370: fluctuation under 35%
+093240: fluctuation under 35%
+010400: fluctuation under 35%
+019490: fluctuation under 35%
+067290: fluctuation under 35%
+099220: fluctuation under 35%
+001529: df len problem
+134380: fluctuation under 35%
+091970: high or low price
+035290: high or low price
+005950: fluctuation under 35%
+051500: fluctuation under 35%
+033250: fluctuation under 35%
+006890: fluctuation under 35%
+005930: fluctuation under 35%
+012450: high or low price
+128940: high or low price
+003010: fluctuation under 35%
+035900: fluctuation under 35%
+000080: fluctuation under 35%
+003650: fluctuation under 35%
+036540: high flat base
+049800: fluctuation under 35%
+036540: high current price
+104620: fluctuation under 35%
+900280: high or low price
+035720: fluctuation under 35%
+417010: fluctuation under 35%
+015020: high or low price
+058820: fluctuation under 35%
+003240: high or low price
+005935: fluctuation under 35%
+318000: fluctuation under 35%
+111110: fluctuation under 35%
+009240: fluctuation under 35%
+000087: fluctuation under 35%
+000885: fluctuation under 35%
+194700: fluctuation under 35%
+093230: fluctuation under 35%
+011280: high flat base
+405920: fluctuation under 35%
+023460: fluctuation under 35%
+006380: high or low price
+442310: spac stock
+001360: fluctuation under 35%
+000140: fluctuation under 35%
+008770: fluctuation under 35%
+024840: fluctuation under 35%
+020000: fluctuation under 35%
+285490: fluctuation under 35%
+009830: fluctuation under 35%
+004100: fluctuation under 35%
+109070: fluctuation under 35%
+121440: fluctuation under 35%
+102460: fluctuation under 35%
+056730: fluctuation under 35%
+051490: fluctuation under 35%
+010140: fluctuation under 35%
+000145: fluctuation under 35%
+024120: fluctuation under 35%
+003680: fluctuation under 35%
+106520: high or low price
+049470: high or low price
+001340: fluctuation under 35%
+009835: fluctuation under 35%
+029460: fluctuation under 35%
+366030: fluctuation under 35%
+084680: high flat base
+137080: fluctuation under 35%
+065770: fluctuation under 35%
+455250: spac stock
+152550: high or low price
+105630: fluctuation under 35%
+002460: fluctuation under 3457630: spac stock
+376930: fluctuation under 35%
+014200: fluctuation under 35%
+281820: fluctuation under 35%
+009410: fluctuation under 35%
+000760: fluctuation under 35%
+190510: fluctuation under 35%
+083660: high flat base
+458320: spac stock
+016360: fluctuation under 35%
+069640: fluctuation under 35%
+036460: fluctuation under 35%
+471050: df len problem
+035150: fluctuation under 35%
+142280: fluctuation under 35%
+013520: fluctuation under 35%
+145270: high or low price
+456440: spac stock
+014990: high or low price
+242040: high flat base
+016450: fluctuation under 35%
+464680: df len problem
+005430: fluctuation under 35%
+048550: fluctuation under 35%
+195870: fluctuation under 35%
+100130: fluctuation under 35%
+234690: high flat base
+241590: fluctuation under 35%
+020180: fluctuation under 35%
+058860: fluctuation under 35%
+026910: fluctuation under 35%
+001420: fluctuation under 35%
+060900: fluctuation under 35%
+006490: fluctuation under 35%
+089600: fluctuation under 35%
+219550: high or low price
+021320: fluctuation under 35%
+071050: fluctuation under 35%
+010420: fluctuation under 35%
+005160: high flat base
+101530: fluctuation under 35%
+065560: fluctuation under 35%
+006060: fluctuation under 35%
+063440: fluctuation under 35%
+397880: spac stock
+007815: fluctuation under 35%
+007980: fluctuation under 35%
+025440: fluctuation under 35%
+023800: fluctuation under 35%
+293580: fluctuation under 35%
+310870: fluctuation under 35%
+036670: fluctuation under 35%
+009180: fluctuation under 35%
+071055: fluctuation under 35%
+054050: fluctuation under 35%
+108380: fluctuation under 35%
+010690: fluctuation under 35%
+421800: spac stock
+068790: fluctuation under 35%
+007810: high flat base
+108490: high flat base
+055490: fluctuation under 35%
+044180: high or low price
+104460: fluctuation under 35%
+086450: fluctuation under 35%
+213500: fluctuation under 35%
+010040: fluctuation under 35%
+089230: high or low price
+069140: fluctuation under 35%
+006580: high flat base
+133820: fluctuation under 35%
+000720: fluctuation under 35%
+440790: spac stock
+241520: high flat base
+00781K: fluctuation under 35%
+900260: high or low price
+078000: fluctuation under 35%
+151860: fluctuation under 35%
+099410: fluctuation under 35%
+130580: fluctuation under 35%
+079810: fluctuation under 35%
+014680: high or low price
+025540: fluctuation under 35%
+040160: fluctuation under 35%
+007680: fluctuation under 35%
+010660: fluctuation under 35%
+161570: high or low price
+267270: fluctuation under 35%
+456490: spac stock
+180400: fluctuation under 35%
+152330: df len problem
+067730: fluctuation under 35%
+214420: high flat base
+214420: high current price
+033500: fluctuation under 35%
+046440: fluctuation under 35%
+036800: fluctuation under 35%
+113810: fluctuation under 35%
+004710: fluctuation under 35%
+332290: fluctuation under 35%
+048910: fluctuation under 35%
+032540: fluctuation under 35%
+000850: fluctuation under 35%
+000725: fluctuation under 35%
+465320: df len problem
+245620: high or low price
+003690: fluctuation under 35%
+071280: fluctuation under 35%
+140890: df len problem
+035600: fluctuation under 35%
+267320: fluctuation under 35%
+004150: fluctuation under 35%
+043360: fluctuation under 35%
+005710: fluctuation under 35%
+016580: fluctuation under 35%
+022220: fluctuation under 35%
+348340: high flat base
+r 35%
+192820: high or low price
+053270: fluctuation under 35%
+328130: fluctuation under 35%
+019180: fluctuation under 35%
+025750: high or low price
+111710: fluctuation under 35%
+226360: high or low price
+197140: fluctuation under 35%
+123890: fluctuation under 35%
+032560: fluctuation under 35%
+088130: high flat base
+290380: fluctuation under 35%
+048770: fluctuation under 35%
+086280: high or low price
+060260: high or low price
+044820: fluctuation under 35%
+050120: fluctuation under 35%
+066620: fluctuation under 35%
+038060: fluctuation under 35%
+091810: high flat base
+004800: fluctuation under 35%
+091590: fluctuation under 35%
+015760: fluctuation under 35%
+041930: fluctuation under 35%
+068930: fluctuation under 35%
+111870: fluctuation under 35%
+290120: fluctuation under 35%
+246690: fluctuation under 35%
+012340: fluctuation under 35%
+005070: high or low price
+004870: high or low price
+060240: fluctuation under 35%
+043650: fluctuation under 35%
+168330: fluctuation under 35%
+006200: high or low price
+060380: fluctuation under 35%
+033130: fluctuation under 35%
+011700: fluctuation under 35%
+317240: high or low price
+5%
+079430: fluctuation under 35%
+120240: fluctuation under 35%
+214870: fluctuation under 35%
+130500: fluctuation under 35%
+058470: high or low price
+005690: fluctuation under 35%
+006050: fluctuation under 35%
+005420: fluctuation under 35%
+002300: df len problem
+094860: high or low price
+001750: fluctuation under 35%
+012330: high or low price
+105740: fluctuation under 35%
+298040: high or low price
+057030: fluctuation under 35%
+003310: fluctuation under 35%
+270870: fluctuation under 35%
+079960: fluctuation under 35%
+036580: fluctuation under 35%
+900290: high flat base
+e
+060480: fluctuation under 35%
+023350: fluctuation under 35%
+010620: fluctuation under 35%
+122450: fluctuation under 35%
+298050: high or low price
+078600: fluctuation under 35%
+040300: fluctuation under 35%
+228340: fluctuation under 35%
+263020: fluctuation under 35%
+144960: fluctuation under 35%
+078130: high or low price
+002020: fluctuation under 35%
+028670: fluctuation under 35%
+019570: high or low price
+083450: fluctuation under 35%
+025890: fluctuation under 35%
+298020: high or low price
+212560: high flat base
+051390: fluctuation under 35%
+096350: high or low price
+052900: fluctuation under 35%
+018880: fluctuation under 35%
+290550: fluctuation under 35%
+088910: fluctuation under 35%
+085670: high flat base
+085670: high current price
+003070: fluctuation under 35%
+307750: fluctuation under 35%
+016100: fluctuation under 35%
+010820: fluctuation under 35%
+297890: high flat base
+297890: high current price
+000970: fluctuation under 35%
+376190: fluctuation under 35%
+004560: high flat base
+298000: fluctuation under 35%
+095660: fluctuation under 35%
+140520: fluctuation under 35%
+094170: fluctuation under 35%
+052220: fluctuation under 35%
+064260: high flat base
+012700: fluctuation under 35%
+003075: fluctuation under 35%
+035080: high flat base
+016800: fluctuation under 35%
+078150: fluctuation under 35%
+104700: fluctuation under 35%
+004565: df len problem
+061970: fluctuation under 35%
+131220: fluctuation under 35%
+093370: fluctuation under 35%
+042420: fluctuation under 35%
+079940: high flat base
+079940: high current price
+013120: fluctuation under 35%
+340360: fluctuation under 35%
+302550: fluctuation under 35%
+144620: df len problem
+204020: fluctuation under 35%
+001020: high or low price
+195940: fluctuation under 35%
+017960: fluctuation under 35%
+011760: fluctuation under 35%
+309960: fluctuation under 35%
+010170: fluctuation under 35%
+081660: fluctuation under 35%
+131180: fluctuation under 35%
+950220: high flat base
+109860: fluctuation under 35%
+300720: fluctuation under 35%
+078890: fluctuation under 35%
+039560: fluctuation under 35%
+073570: fluctuation under 35%
+002025: fluctuation under 35%
+402490: df len problem
+090080: fluctuation under 35%
+028300: high flat base
+161890: fluctuation under 35%
+011200: high flat base
+315640: fluctuation under 35%
+060370: fluctuation under 35%
+002220: fluctuation under 35%
+311390: fluctuation under 35%
+399720: high flat base
+r 35%
+154040: fluctuation under 35%
+399720: high current price
+377450: fluctuation under 35%
+120110: fluctuation under 35%
+114450: fluctuation under 35%
+010770: fluctuation under 35%
+278650: fluctuation under 35%
+024720: fluctuation under 35%
+004310: fluctuation under 35%
+417200: df len problem
+317120: fluctuation under 35%
+006390: fluctuation under 35%
+023910: fluctuation under 35%
+079980: fluctuation under 35%
+036620: fluctuation under 35%
+032190: fluctuation under 35%
+277070: high flat base
+120115: fluctuation under 35%
+186230: fluctuation under 35%
+067630: fluctuation under 35%
+058430: fluctuation under 35%
+161390: fluctuation under 35%
+126560: fluctuation under 35%
+086960: fluctuation under 35%
+042510: fluctuation under 35%
+003300: fluctuation under 35%
+021040: fluctuation under 35%
+092730: fluctuation under 35%
+005290: fluctuation under 35%
+068240: fluctuation under 35%
+138490: fluctuation under 35%
+042500: fluctuation under 35%
+900070: high or low price
+047050: fluctuation under 35%
+024850: fluctuation under 35%
+000240: fluctuation under 35%
+017800: fluctuation under 35%
+038340: fluctuation under 35%
+232680: fluctuation under 35%
+021045: fluctuation under 35%
+051600: fluctuation under 35%
+114190: fluctuation under 35%
+290660: fluctuation under 35%
+069260: fluctuation under 35%
+025900: fluctuation under 35%
+204620: fluctuation under 35%
+065650: high or low price
+219420: fluctuation under 35%
+007630: df len problem
+047920: fluctuation under 35%
+034830: fluctuation under 35%
+011210: fluctuation under 35%
+160550: fluctuation under 35%
+067080: fluctuation under 35%
+052690: fluctuation under 35%
+418420: high flat base
+131970: fluctuation under 35%
+000540: fluctuation under 35%
+019660: high or low price
+408920: fluctuation under 35%
+439090: fluctuation under 35%
+017810: fluctuation under 35%
+115450: fluctuation under 35%
+007280: fluctuation under 35%
+267260: high or low price
+053290: fluctuation under 35%
+298540: fluctuation under 35%
+000547: df len problem
+021880: high or low price
+130660: fluctuation under 35%
+153460: fluctuation under 35%
+048470: fluctuation under 35%
+053260: fluctuation under 35%
+195500: fluctuation under 35%
+300120: fluctuation under 35%
+039240: fluctuation under 35%
+053030: fluctuation under 35%
+251630: high flat base
+004020: fluctuation under 35%
+060250: high flat base
+032860: fluctuation under 35%
+000545: fluctuation under 35%
+140410: fluctuation under 35%
+377480: fluctuation under 35%
+007390: fluctuation under 35%
+030350: high or low price
+053950: fluctuation under 35%
+171120: fluctuation under 35%
+282720: fluctuation under 35%
+004780: fluctuation under 35%
+403870: high flat base
+e
+403870: high current price
+018290: fluctuation under 35%
+393890: fluctuation under 35%
+104200: high flat base
+305090: fluctuation under 35%
+241770: fluctuation under 35%
+388790: fluctuation under 35%
+011040: fluctuation under 35%
+033640: high flat base
+036190: fluctuation under 35%
+203650: fluctuation under 35%
+017650: fluctuation under 35%
+064550: fluctuation under 35%
+036640: fluctuation under 35%
+014970: high flat base
+079650: fluctuation under 35%
+044480: fluctuation under 35%
+222160: high flat base
+069540: fluctuation under 35%
+059210: fluctuation under 35%
+098120: fluctuation under 35%
+024910: fluctuation under 35%
+299170: high flat base
+007720: high or low price
+049080: fluctuation under 35%
+223250: fluctuation under 35%
+426550: spac stock
+100660: fluctuation under 35%
+018310: fluctuation under 35%
+439580: df len problem
+039310: fluctuation under 35%
+024940: fluctuation under 35%
+347700: fluctuation under 35%
+089140: fluctuation under 35%
+198440: fluctuation under 35%
+058110: fluctuation under 35%
+424980: fluctuation under 35%
+224060: fluctuation under 35%
+420770: fluctuation under 35%
+389260: fluctuation under 35%
+060570: fluctuation under 35%
+208710: high or low price
+019770: fluctuation under 35%
+033560: fluctuation under 35%
+053700: fluctuation under 35%
+214260: fluctuation under 35%
+067770: fluctuation under 35%
+218410: high flat base
+038290: fluctuation under 35%
+035460: fluctuation under 35%
+137940: high or low price
+317850: fluctuation under 35%
+434480: fluctuation under 35%
+049720: fluctuation under 35%
+217620: high or low price
+213420: fluctuation under 35%
+043710: high or low price
+159910: high or low price
+009620: fluctuation under 35%
+369370: fluctuation under 35%
+267980: fluctuation under 35%
+308100: fluctuation under 35%
+187270: fluctuation under 35%
+396270: fluctuation under 35%
+290670: fluctuation under 35%
+016670: high or low price
+317330: high flat base
+092190: fluctuation under 35%
+038460: fluctuation under 35%
+023600: fluctuation under 35%
+115570: fluctuation under 35%
+348210: fluctuation under 35%
+417970: fluctuation under 35%
+187870: fluctuation under 35%
+078140: fluctuation under 35%
+171010: fluctuation under 35%
+222810: fluctuation under 35%
+243840: fluctuation under 35%
+077360: fluctuation under 35%
+425290: spac stock
+046890: fluctuation under 35%
+121800: fluctuation under 35%
+251120: fluctuation under 35%
+065150: high or low price
+257720: fluctuation under 35%
+225570: fluctuation under 35%
+252500: high or low price
+066670: fluctuation under 35%
+092040: fluctuation under 35%
+080160: fluctuation under 35%
+093520: high flat base
+187790: fluctuation under 35%
+093520: high current price
+%
+090410: fluctuation under 35%
+439250: spac stock
+199730: fluctuation under 35%
+148140: fluctuation under 35%
+063170: high flat base
+352090: df len problem
+110990: fluctuation under 35%
+217270: fluctuation under 35%
+372800: fluctuation under 35%
+222800: fluctuation under 35%
+321370: high flat base
+087260: fluctuation under 35%
+321370: high current price
+083930: fluctuation under 35%
+377030: high flat base
+217500: fluctuation under 35%
+448740: spac stock
+082800: fluctuation under 35%
+086040: fluctuation under 35%
+027040: high or low price
+253450: fluctuation under 35%
+030960: fluctuation under 35%
+194480: fluctuation under 35%
+347000: fluctuation under 35%
+027830: fluctuation under 35%
+100590: fluctuation under 35%
+263690: fluctuation under 35%
+468510: df len problem
+318410: fluctuation under 35%
+018680: fluctuation under 35%
+099430: fluctuation under 35%
+263800: fluctuation under 35%
+012860: fluctuation under 35%
+038390: fluctuation under 35%
+104040: fluctuation under 35%
+067280: fluctuation under 35%
+114840: high flat base
+160980: fluctuation under 35%
+114840: high current price
+009300: fluctuation under 35%
+419540: fluctuation under 35%
+204630: high or low price
+093920: fluctuation under 35%
+263540: fluctuation under 35%
+294140: high flat base
+363260: high or low price
+050860: fluctuation under 35%
+206560: high flat base
+072870: fluctuation under 35%
+129920: fluctuation under 35%
+027360: high flat base
+356890: fluctuation under 35%
+225190: fluctuation under 35%
+308080: fluctuation under 35%
+146320: high flat base
+189860: fluctuation under 35%
+136410: fluctuation under 35%
+299660: fluctuation under 35%
+238120: fluctuation under 35%
+261200: fluctuation under 35%
+438220: spac stock
+376300: fluctuation under 35%
+215200: fluctuation under 35%
+217330: fluctuation under 35%
+032080: fluctuation under 35%
+043150: fluctuation under 35%
+361670: fluctuation under 35%
+203690: fluctuation under 35%
+200780: fluctuation under 35%
+178320: fluctuation under 35%
+268600: fluctuation under 35%
+109740: fluctuation under 35%
+250060: fluctuation under 35%
+246720: fluctuation under 35%
+067990: fluctuation under 35%
+133750: fluctuation under 35%
+010280: high or low price
+413640: df len problem
+054540: fluctuation under 35%
+323990: high flat base
+049830: fluctuation under 35%
+122690: fluctuation under 35%
+196490: fluctuation under 35%
+237690: fluctuation under 35%
+108860: fluctuation under 35%
+006620: fluctuation under 35%
+446540: df len problem
+270660: high flat base
+288980: fluctuation under 35%
+228850: fluctuation under 35%
+267790: fluctuation under 35%
+020710: fluctuation under 35%
+059120: fluctuation under 35%
+208640: high or low price
+141000: fluctuation under 35%
+140070: high flat base
+066900: fluctuation under 35%
+235980: fluctuation under 35%
+208370: fluctuation under 35%
+033200: fluctuation under 35%
+038680: fluctuation under 35%
+159010: fluctuation under 35%
+412350: fluctuation under 35%
+046310: fluctuation under 35%
+158430: fluctuation under 35%
+222420: fluctuation under 35%
+033170: fluctuation under 35%
+083650: fluctuation under 35%
+032280: fluctuation under 35%
+011370: high or low price
+097780: fluctuation under 35%
+041920: fluctuation under 35%
+318160: fluctuation under 35%
+333050: fluctuation under 35%
+127120: fluctuation under 35%
+127710: fluctuation under 35%
+288620: fluctuation under 35%
+281740: high flat base
+331520: high or low price
+445360: spac stock
+048870: fluctuation under 35%
+037760: fluctuation under 35%
+002290: fluctuation under 35%
+065710: fluctuation under 35%
+448280: df len problem
+068760: high or low price
+014100: fluctuation under 35%
+092070: fluctuation under 35%
+118990: fluctuation under 35%
+121890: fluctuation under 35%
+317830: fluctuation under 35%
+277810: high or low price
+154030: fluctuation under 35%
+001540: fluctuation under 35%
+142760: fluctuation under 35%
+438700: high flat base
+025320: high flat base
+099320: fluctuation under 35%
+037460: fluctuation under 35%
+035890: fluctuation under 35%
+068940: high or low price
+054180: high or low price
+5%
+039840: fluctuation under 35%
+058610: fluctuation under 35%
+215100: fluctuation under 35%
+227610: fluctuation under 35%
+053800: fluctuation under 35%
+066410: fluctuation under 35%
+269620: high or low price
+049960: fluctuation under 35%
+032750: fluctuation under 35%
+128540: fluctuation under 35%
+060230: fluctuation under 35%
+086900: high or low price
+001810: fluctuation under 35%
+348370: high or low price
+389500: fluctuation under 35%
+043340: high or low price
+143160: fluctuation under 35%
+090360: high flat base
+065660: fluctuation under 35%
+086670: fluctuation under 35%
+382900: fluctuation under 35%
+088280: df len problem
+429270: fluctuation under 35%
+003100: fluctuation under 35%
+086520: high or low price
+054090: fluctuation under 35%
+078160: fluctuation under 35%
+058450: high flat base
+187660: fluctuation under 35%
+054800: fluctuation under 35%
+039830: fluctuation under 35%
+042110: fluctuation under 35%
+297570: fluctuation under 35%
+335890: fluctuation under 35%
+206400: fluctuation under 35%
+050890: fluctuation under 35%
+247540: high or low price
+418250: fluctuation under 35%
+067370: high flat base
+950200: fluctuation under 35%
+095500: fluctuation under 35%
+155650: fluctuation under 35%
+054630: high or low price
+332370: fluctuation under 35%
+069410: fluctuation under 35%
+322310: high flat base
+322310: high current price
+260660: fluctuation under 35%
+230980: high or low price
+019010: fluctuation under 35%
+109670: df len problem
+383310: fluctuation under 35%
+024950: fluctuation under 35%
+131090: fluctuation under 35%
+032680: high or low price
+273640: fluctuation under 35%
+254490: fluctuation under 35%
+227950: high or low price
+339950: fluctuation under 35%
+200710: fluctuation under 35%
+065420: high or low price
+046120: fluctuation under 35%
+354320: fluctuation under 35%
+138580: fluctuation under 35%
+066790: fluctuation under 35%
+038110: fluctuation under 35%
+038500: fluctuation under 35%
+086710: fluctuation under 35%
+032685: fluctuation under 35%
+251370: fluctuation under 35%
+291230: high flat base
+096690: high or low price
+099190: high flat base
+103230: fluctuation under 35%
+014940: fluctuation under 35%
+361570: fluctuation under 35%
+082920: fluctuation under 35%
+222080: fluctuation under 35%
+073540: fluctuation under 35%
+290520: fluctuation under 35%
+017480: fluctuation under 35%
+014620: fluctuation under 35%
+066430: high or low price
+258790: fluctuation under 35%
+442900: spac stock
+289010: fluctuation under 35%
+198080: high flat base
+260970: fluctuation under 35%
+065500: fluctuation under 35%
+131370: high flat base
+054220: high or low price
+424760: fluctuation under 35%
+352480: fluctuation under 35%
+001000: fluctuation under 35%
+046390: fluctuation under 35%
+064850: fluctuation under 35%
+037350: fluctuation under 35%
+193250: high or low price
+100790: high flat base
+214430: fluctuation under 35%
+101490: fluctuation under 35%
+048830: fluctuation under 35%
+010470: fluctuation under 35%
+140670: high flat base
+042370: fluctuation under 35%
+264660: fluctuation under 35%
+225530: fluctuation under 35%
+027580: fluctuation under 35%
+025870: fluctuation under 35%
+081580: fluctuation under 35%
+412930: spac stock
+043100: high or low price
+195990: high or low price
+040910: fluctuation under 35%
+096870: fluctuation under 35%
+096610: fluctuation under 35%
+050090: fluctuation under 35%
+352700: fluctuation under 35%
+250000: fluctuation under 35%
+173940: fluctuation under 35%
+038540: fluctuation under 35%
+045300: fluctuation under 35%
+446190: spac stock
+035610: fluctuation under 35%
+019210: fluctuation under 35%
+003800: fluctuation under 35%
+275630: fluctuation under 35%
+368600: fluctuation under 35%
+352910: fluctuation under 35%
+290650: fluctuation under 35%
+061040: fluctuation under 35%
+307870: fluctuation under 35%
+297090: fluctuation under 35%
+101000: fluctuation under 35%
+448830: spac stock
+357780: high or low price
+015750: fluctuation under 35%
+122870: fluctuation under 35%
+031330: fluctuation under 35%
+088800: high flat base
+053980: fluctuation under 35%
+052860: fluctuation under 35%
+066970: high or low price
+148250: fluctuation under 35%
+357880: fluctuation under 35%
+006910: fluctuation under 35%
+416180: fluctuation under 35%
+415580: spac stock
+054940: high or low price
+049950: fluctuation under 35%
+365340: fluctuation under 35%
+036830: high flat base
+060540: fluctuation under 35%
+241840: fluctuation under 35%
+052420: fluctuation under 35%
+069920: fluctuation under 35%
+332570: fluctuation under 35%
+347860: fluctuation under 35%
+156100: high flat base
+226340: fluctuation under 35%
+359090: fluctuation under 35%
+032850: fluctuation under 35%
+452670: spac stock
+162300: fluctuation under 35%
+043090: high or low price
+207760: fluctuation under 35%
+080470: fluctuation under 35%
+304100: fluctuation under 35%
+453860: df len problem
+038880: high or low price
+241790: fluctuation under 35%
+079000: fluctuation under 35%
+014470: fluctuation under 35%
+073110: high flat base
+e
+091580: fluctuation under 35%
+290560: df len problem
+950130: fluctuation under 35%
+059090: fluctuation under 35%
+043260: fluctuation under 35%
+056190: fluctuation under 35%
+328380: fluctuation under 35%
+312610: fluctuation under 35%
+403490: fluctuation under 35%
+123750: fluctuation under 35%
+307180: fluctuation under 35%
+039200: fluctuation under 35%
+008470: fluctuation under 35%
+238200: fluctuation under 35%
+115480: high or low price
+5%
+002800: fluctuation under 35%
+205100: high flat base
+214610: fluctuation under 35%
+148150: fluctuation under 35%
+080000: fluctuation under 35%
+086980: fluctuation under 35%
+172670: fluctuation under 35%
+085810: fluctuation under 35%
+226400: fluctuation under 35%
+338220: fluctuation under 35%
+032820: fluctuation under 35%
+101390: fluctuation under 35%
+037950: fluctuation under 35%
+093190: fluctuation under 35%
+340810: fluctuation under 35%
+419270: spac stock
+089980: fluctuation under 35%
+201490: fluctuation under 35%
+356680: high flat base
+188260: df len problem
+214310: high or low price
+445090: df len problem
+050960: fluctuation under 35%
+117670: high or low price
+100120: fluctuation under 35%
+451220: fluctuation under 35%
+376290: fluctuation under 35%
+170920: high flat base
+430220: spac stock
+170920: high current price
+042940: high or low price
+031510: fluctuation under 35%
+418470: high flat base
+053060: fluctuation under 35%
+070300: fluctuation under 35%
+246250: high flat base
+072990: fluctuation under 35%
+084180: high or low price
+314140: fluctuation under 35%
+406820: fluctuation under 35%
+445970: spac stock
+210120: fluctuation under 35%
+115440: fluctuation under 35%
+189330: fluctuation under 35%
+058630: fluctuation under 35%
+042600: high flat base
+368970: high flat base
+340440: fluctuation under 35%
+206640: fluctuation under 35%
+041510: fluctuation under 35%
+291650: fluctuation under 35%
+253840: high flat base
+337930: high flat base
+096530: fluctuation under 35%
+046970: fluctuation under 35%
+017000: fluctuation under 35%
+058970: fluctuation under 35%
+107600: fluctuation under 35%
+138080: high flat base
+017510: fluctuation under 35%
+018700: fluctuation under 35%
+007820: fluctuation under 35%
+239610: fluctuation under 35%
+298830: high flat base
+293780: fluctuation under 35%
+099390: fluctuation under 35%
+101240: fluctuation under 35%
+012790: fluctuation under 35%
+143240: fluctuation under 35%
+082850: high flat base
+019590: high or low price
+080580: high flat base
+411080: fluctuation under 35%
+080580: high current price
+011560: fluctuation under 35%
+317870: fluctuation under 35%
+035620: high or low price
+109610: fluctuation under 35%
+462020: spac stock
+236200: fluctuation under 35%
+196300: fluctuation under 35%
+064480: high flat base
+138070: fluctuation under 35%
+060590: fluctuation under 35%
+215360: fluctuation under 35%
+169330: fluctuation under 35%
+067170: fluctuation under 35%
+252990: fluctuation under 35%
+396300: fluctuation under 35%
+067570: fluctuation under 35%
+365330: df len problem
+376980: fluctuation under 35%
+148930: fluctuation under 35%
+094840: fluctuation under 35%
+310200: fluctuation under 35%
+226330: fluctuation under 35%
+122350: fluctuation under 35%
+072470: fluctuation under 35%
+373170: fluctuation under 35%
+353590: fluctuation under 35%
+378800: fluctuation under 35%
+100700: fluctuation under 35%
+236810: high flat base
+031860: high or low price
+044780: fluctuation under 35%
+008370: fluctuation under 35%
+192440: fluctuation under 35%
+365900: high flat base
+418210: spac stock
+419050: fluctuation under 35%
+052300: high or low price
+073560: fluctuation under 35%
+179290: fluctuation under 35%
+173130: fluctuation under 35%
+024830: fluctuation under 35%
+306040: fluctuation under 35%
+333620: fluctuation under 35%
+357230: fluctuation under 35%
+008290: high or low price
+900100: high flat base
+452980: spac stock
+089850: fluctuation under 35%
+262840: fluctuation under 35%
+013990: high flat base
+037400: fluctuation under 35%
+009780: fluctuation under 35%
+038070: fluctuation under 35%
+258830: high or low price
+457940: spac stock
+101400: high or low price
+355690: df len problem
+101160: fluctuation under 35%
+393360: spac stock
+084440: fluctuation under 35%
+205500: fluctuation under 35%
+123040: fluctuation under 35%
+049480: fluctuation under 35%
+153490: fluctuation under 35%
+036630: high or low price
+006730: fluctuation under 35%
+435870: spac stock
+391060: spac stock
+064090: fluctuation under 35%
+099440: high flat base
+405640: spac stock
+032620: fluctuation under 35%
+052790: fluctuation under 35%
+052460: fluctuation under 35%
+025980: fluctuation under 35%
+455910: spac stock
+323230: fluctuation under 35%
+352940: fluctuation under 35%
+101170: fluctuation under 35%
+246960: fluctuation under 35%
+422040: spac stock
+033790: fluctuation under 35%
+336060: fluctuation under 35%
+056700: fluctuation under 35%
+264450: fluctuation under 35%
+290740: fluctuation under 35%
+058220: high or low price
+032790: fluctuation under 35%
+096630: fluctuation under 35%
+437780: spac stock
+under 35%
+079950: fluctuation under 35%
+309930: fluctuation under 35%
+088390: fluctuation under 35%
+224110: fluctuation under 35%
+095270: fluctuation under 35%
+362320: fluctuation under 35%
+034940: fluctuation under 35%
+078070: fluctuation under 35%
+238090: fluctuation under 35%
+052770: fluctuation under 35%
+125210: fluctuation under 35%
+033160: fluctuation under 35%
+438580: spac stock
+045510: fluctuation under 35%
+103840: fluctuation under 35%
+069510: fluctuation under 35%
+272290: fluctuation under 35%
+065950: fluctuation under 35%
+066360: fluctuation under 35%
+067000: fluctuation under 35%
+024800: fluctuation under 35%
+092600: fluctuation under 35%
+124500: high flat base
+124500: high current price
+357580: fluctuation under 35%
+347890: fluctuation under 35%
+439410: spac stock
+226950: fluctuation under 35%
+046940: fluctuation under 35%
+217190: fluctuation under 35%
+053350: fluctuation under 35%
+089530: high or low price
+076080: fluctuation under 35%
+047820: fluctuation under 35%
+033340: fluctuation under 35%
+054930: fluctuation under 35%
+225430: fluctuation under 35%
+282880: fluctuation under 35%
+033310: fluctuation under 35%
+440820: spac stock
+057540: high or low price
+060150: fluctuation under 35%
+215380: fluctuation under 35%
+095700: fluctuation under 35%
+234300: fluctuation under 35%
+200470: high flat base
+041520: fluctuation under 35%
+200470: high current price
+043590: high flat base
+094360: fluctuation under 35%
+036930: fluctuation under 35%
+069330: fluctuation under 35%
+174900: high flat base
+102370: high flat base
+121850: fluctuation under 35%
+451700: spac stock
+259630: fluctuation under 35%
+131030: fluctuation under 35%
+072520: high or low price
+065680: fluctuation under 35%
+039440: fluctuation under 35%
+262260: fluctuation under 35%
+016790: fluctuation under 35%
+196700: fluctuation under 35%
+049520: fluctuation under 35%
+239340: fluctuation under 35%
+036030: fluctuation under 35%
+255440: high flat base
+466910: df len problem
+448710: high flat base
+115960: fluctuation under 35%
+082210: high flat base
+450520: high flat base
+082210: high current price
+122310: fluctuation under 35%
+018620: fluctuation under 35%
+098660: fluctuation under 35%
+109960: high or low price
+054210: fluctuation under 35%
+016920: fluctuation under 35%
+069080: fluctuation under 35%
+435380: spac stock
+072020: fluctuation under 35%
+134580: fluctuation under 35%
+064820: fluctuation under 35%
+265740: fluctuation under 35%
+015710: fluctuation under 35%
+361390: fluctuation under 35%
+060850: fluctuation under 35%
+037330: fluctuation under 35%
+457550: df len problem
+109080: fluctuation under 35%
+053580: fluctuation under 35%
+164060: fluctuation under 35%
+444920: spac stock
+284620: high flat base
+000440: fluctuation under 35%
+023160: fluctuation under 35%
+256940: fluctuation under 35%
+052330: fluctuation under 35%
+354200: fluctuation under 35%
+396470: has nan or inf
+143540: high flat base
+100030: high flat base
+071460: high or low price
+089970: fluctuation under 35%
+065440: fluctuation under 35%
+446150: spac stock
+293490: fluctuation under 35%
+323280: high flat base
+323280: high current price
+024880: fluctuation under 35%
+322780: fluctuation under 35%
+419080: fluctuation under 35%
+225220: fluctuation under 35%
+211050: fluctuation under 35%
+307280: fluctuation under 35%
+153710: fluctuation under 35%
+377460: fluctuation under 35%
+230240: fluctuation under 35%
+449020: spac stock
+104480: fluctuation under 35%
+053620: fluctuation under 35%
+042040: high or low price
+200130: fluctuation under 35%
+208860: fluctuation under 35%
+083640: high or low price
+5%
+265560: fluctuation under 35%
+032940: fluctuation under 35%
+078020: fluctuation under 35%
+044340: fluctuation under 35%
+450940: spac stock
+under 35%
+081150: fluctuation under 35%
+314130: fluctuation under 35%
+044490: fluctuation under 35%
+317530: fluctuation under 35%
+054410: fluctuation under 35%
+183490: fluctuation under 35%
+294570: fluctuation under 35%
+216050: fluctuation under 35%
+036000: fluctuation under 35%
+159580: high flat base
+240810: fluctuation under 35%
+131400: fluctuation under 35%
+330350: fluctuation under 35%
+432430: fluctuation under 35%
+430700: spac stock
+119500: fluctuation under 35%
+389030: fluctuation under 35%
+071850: fluctuation under 35%
+258610: fluctuation under 35%
+182400: fluctuation under 35%
+317690: fluctuation under 35%
+250930: high or low price
+147830: fluctuation under 35%
+049070: high flat base
+074600: fluctuation under 35%
+348350: fluctuation under 35%
+263770: fluctuation under 35%
+351330: high flat base
+389140: high flat base
+389140: high current price
+043610: fluctuation under 35%
+050110: fluctuation under 35%
+084730: fluctuation under 35%
+274090: fluctuation under 35%
+078940: fluctuation under 35%
+002230: fluctuation under 35%
+053280: fluctuation under 35%
+033100: fluctuation under 35%
+104830: fluctuation under 35%
+122990: fluctuation under 35%
+388720: fluctuation under 35%
+080010: fluctuation under 35%
+452300: df len problem
+073640: fluctuation under 35%
+263860: high flat base
+263860: high current price
+058530: fluctuation under 35%
+089010: fluctuation under 35%
+432720: df len problem
+057880: fluctuation under 35%
+079370: high flat base
+r 35%
+122640: fluctuation under 35%
+112290: fluctuation under 35%
+340930: fluctuation under 35%
+086890: fluctuation under 35%
+189690: high flat base
+066700: fluctuation under 35%
+303030: fluctuation under 35%
+440110: high flat base
+220260: fluctuation under 35%
+365270: high flat base
+043370: fluctuation under 35%
+054950: fluctuation under 35%
+900300: high or low price
+051370: high flat base
+051370: high current price
+217820: fluctuation under 35%
+123420: fluctuation under 35%
+023410: fluctuation under 35%
+047560: high flat base
+047560: high current price
+223310: fluctuation under 35%
+095610: fluctuation under 35%
+318020: fluctuation under 35%
+036180: high or low price
+034230: fluctuation under 35%
+052400: fluctuation under 35%
+348080: fluctuation under 35%
+239890: fluctuation under 35%
+023440: fluctuation under 35%
+030530: fluctuation under 35%
+045060: fluctuation under 35%
+065530: high flat base
+065370: fluctuation under 35%
+056080: fluctuation under 35%
+900110: high or low price
+451760: df len problem
+064520: fluctuation under 35%
+256630: fluctuation under 35%
+208350: fluctuation under 35%
+402030: fluctuation under 35%
+060280: fluctuation under 35%
+347740: fluctuation under 35%
+090470: fluctuation under 35%
+189300: fluctuation under 35%
+012620: fluctuation under 35%
+080520: fluctuation under 35%
+388800: spac stock
+067900: fluctuation under 35%
+038620: high or low price
+067010: fluctuation under 35%
+900310: high or low price
+089030: high flat base
+089030: high current price
+331380: fluctuation under 35%
+144510: high flat base
+372320: df len problem
+391710: fluctuation under 35%
+388870: high flat base
+137400: fluctuation under 35%
+287410: fluctuation under 35%
+382840: fluctuation under 35%
+150840: fluctuation under 35%
+106080: fluctuation under 35%
+413630: spac stock
+007530: fluctuation under 35%
+299900: high flat base
+078340: fluctuation under 35%
+054450: fluctuation under 35%
+102710: fluctuation under 35%
+234100: fluctuation under 35%
+358570: high flat base
+043200: high or low price
+040350: high or low price
+257370: fluctuation under 35%
+137950: fluctuation under 35%
+377400: spac stock
+442130: spac stock
+under 35%
+048530: fluctuation under 35%
+226440: fluctuation under 35%
+036090: high or low price
+063760: fluctuation under 35%
+091440: high flat base
+063080: fluctuation under 35%
+041020: high flat base
+041020: high current price
+382480: fluctuation under 35%
+214450: high or low price
+051780: high or low price
+047770: fluctuation under 35%
+147760: high flat base
+033320: fluctuation under 35%
+400840: spac stock
+084370: fluctuation under 35%
+097870: fluctuation under 35%
+175140: high flat base
+042520: fluctuation under 35%
+136540: fluctuation under 35%
+200230: high or low price
+114630: high or low price
+382800: fluctuation under 35%
+450050: spac stock
+128660: fluctuation under 35%
+417500: high flat base
+240600: df len problem
+417500: high current price
+115310: fluctuation under 35%
+290270: fluctuation under 35%
+320000: fluctuation under 35%
+430690: fluctuation under 35%
+083470: fluctuation under 35%
+079190: high or low price
+290720: fluctuation under 35%
+051160: high flat base
+177830: fluctuation under 35%
+104540: fluctuation under 35%
+221840: fluctuation under 35%
+006140: fluctuation under 35%
+204270: fluctuation under 35%
+221800: fluctuation under 35%
+039290: fluctuation under 35%
+353190: fluctuation under 35%
+097800: fluctuation under 35%
+078350: fluctuation under 35%
+095190: fluctuation under 35%
+215480: fluctuation under 35%
+005670: fluctuation under 35%
+053050: fluctuation under 35%
+037070: fluctuation under 35%
+027050: fluctuation under 35%
+182360: high flat base
+182360: high current price
+106190: fluctuation under 35%
+026040: fluctuation under 35%
+179900: high flat base
+071200: fluctuation under 35%
+192410: high or low price
+192390: fluctuation under 35%
+045100: fluctuation under 35%
+214370: fluctuation under 35%
+091120: fluctuation under 35%
+051360: fluctuation under 35%
+094940: fluctuation under 35%
+119850: fluctuation under 35%
+190650: fluctuation under 35%
+150900: high flat base
+405100: high flat base
+452160: df len problem
+373200: fluctuation under 35%
+101930: fluctuation under 35%
+090710: fluctuation under 35%
+313760: fluctuation under 35%
+221980: fluctuation under 35%
+039030: high or low price
+045340: fluctuation under 35%
+007330: fluctuation under 35%
+065060: high or low price
+037030: fluctuation under 35%
+123410: fluctuation under 35%
+066310: fluctuation under 35%
+126880: fluctuation under 35%
+066130: fluctuation under 35%
+062970: fluctuation under 35%
+191410: fluctuation under 35%
+333430: fluctuation under 35%
+078590: high or low price
+335870: fluctuation under 35%
+038530: high or low price
+294090: fluctuation under 35%
+108230: fluctuation under 35%
+093380: fluctuation under 35%
+036690: fluctuation under 35%
+322510: fluctuation under 35%
+004590: fluctuation under 35%
+372170: fluctuation under 35%
+068330: fluctuation under 35%
+205470: fluctuation under 35%
+424140: spac stock
+900340: high or low price
+123840: high or low price
+088290: fluctuation under 35%
+079970: high or low price
+023900: fluctuation under 35%
+270520: fluctuation under 35%
+049430: fluctuation under 35%
+368770: fluctuation under 35%
+033050: fluctuation under 35%
+039340: fluctuation under 35%
+355390: high flat base
+291810: fluctuation under 35%
+146060: fluctuation under 35%
+178780: fluctuation under 35%
+115160: fluctuation under 35%
+436530: spac stock
+036200: fluctuation under 35%
+007770: fluctuation under 35%
+181340: fluctuation under 35%
+199800: fluctuation under 35%
+371950: fluctuation under 35%
+183300: fluctuation under 35%
+311320: fluctuation under 35%
+170790: fluctuation under 35%
+094970: fluctuation under 35%
+378340: fluctuation under 35%
+096240: fluctuation under 35%
+072770: fluctuation under 35%
+019540: fluctuation under 35%
+028080: fluctuation under 35%
+192250: fluctuation under 35%
+018000: fluctuation under 35%
+198940: fluctuation under 35%
+353810: fluctuation under 35%
+417790: fluctuation under 35%
+370090: fluctuation under 35%
+041960: fluctuation under 35%
+388050: fluctuation under 35%
+418550: fluctuation under 35%
+049120: fluctuation under 35%
+161580: fluctuation under 35%
+222980: fluctuation under 35%
+114120: fluctuation under 35%
+039020: fluctuation under 35%
+094820: fluctuation under 35%
+200670: fluctuation under 35%
+115500: fluctuation under 35%
+203450: fluctuation under 35%
+079170: fluctuation under 35%
+099750: fluctuation under 35%
+105550: fluctuation under 35%
+089890: high flat base
+089890: high current price
+219750: fluctuation under 35%
+038950: fluctuation under 35%
+089790: fluctuation under 35%
+256840: fluctuation under 35%
+347770: fluctuation under 35%
+110790: fluctuation under 35%
+067920: fluctuation under 35%
+065510: high flat base
+950140: fluctuation under 35%
+089150: fluctuation under 35%
+011320: fluctuation under 35%
+377330: fluctuation under 35%
+290090: fluctuation under 35%
+220100: high flat base
+009730: high flat base
+018120: fluctuation under 35%
+441270: fluctuation under 35%
+052670: fluctuation under 35%
+025550: fluctuation under 35%
+163730: fluctuation under 35%
+044960: fluctuation under 35%
+900250: fluctuation under 35%
+049550: fluctuation under 35%
+215090: fluctuation under 35%
+025880: fluctuation under 35%
+086390: fluctuation under 35%
+002680: fluctuation under 35%
+035810: fluctuation under 35%
+026150: fluctuation under 35%
+035200: fluctuation under 35%
+082660: high or low price
+109820: fluctuation under 35%
+106240: fluctuation under 35%
+199820: fluctuation under 35%
+017890: fluctuation under 35%
+417180: fluctuation under 35%
+303530: fluctuation under 35%
+045520: fluctuation under 35%
+263920: fluctuation under 35%
+389020: fluctuation under 35%
+093320: high or low price
+386580: spac stock
+160600: fluctuation under 35%
+322180: fluctuation under 35%
+334970: fluctuation under 35%
+086060: fluctuation under 35%
+222040: fluctuation under 35%
+131760: high or low price
+080720: fluctuation under 35%
+038010: fluctuation under 35%
+430460: spac stock
+092130: fluctuation under 35%
+142210: high flat base
+243070: fluctuation under 35%
+036170: high or low price
+
+093640: fluctuation under 35%
+117730: fluctuation under 35%
+254120: high flat base
+321260: high flat base
+036890: fluctuation under 35%
+241710: fluctuation under 35%
+063570: fluctuation under 35%
+276730: high or low price
+455310: spac stock
+214150: fluctuation under 35%
+096040: high or low price
+302430: fluctuation under 35%
+048430: fluctuation under 35%
+073010: fluctuation under 35%
+053610: fluctuation under 35%
+043910: fluctuation under 35%
+448370: spac stock
+355150: fluctuation under 35%
+080220: high flat base
+080220: high current price
+363250: fluctuation under 35%
+140860: high or low price
+041460: high flat base
+034810: fluctuation under 35%
+274400: fluctuation under 35%
+206650: fluctuation under 35%
+057680: fluctuation under 35%
+145020: high or low price
+134060: fluctuation under 35%
+454750: spac stock
+303360: fluctuation under 35%
+216080: fluctuation under 35%
+007370: fluctuation under 35%
+091700: fluctuation under 35%
+166480: high flat base
+03481K: fluctuation under 35%
+056090: fluctuation under 35%
+204610: fluctuation under 35%
+053080: fluctuation under 35%
+237880: fluctuation under 35%
+454640: spac stock
+001840: fluctuation under 35%
+289220: high flat base
+377220: fluctuation under 35%
+229000: fluctuation under 35%
+045970: fluctuation under 35%
+285800: fluctuation under 35%
+032800: high or low price
+039740: fluctuation under 35%
+432470: df len problem
+064760: high or low price
+076610: high flat base
+073490: fluctuation under 35%
+469880: df len problem
+010240: fluctuation under 35%
+174880: fluctuation under 35%
+335810: fluctuation under 35%
+082270: fluctuation under 35%
+085660: fluctuation under 35%
+196450: fluctuation under 35%
+318010: fluctuation under 35%
+053300: fluctuation under 35%
+272110: fluctuation under 35%
+246710: high flat base
+406760: spac stock
+413600: spac stock
+059270: high flat base
+059270: high current price
+049630: high or low price
+053160: high flat base
+189980: fluctuation under 35%
+041830: fluctuation under 35%
+064800: fluctuation under 35%
+261780: fluctuation under 35%
+027710: fluctuation under 35%
+025770: fluctuation under 35%
+039420: fluctuation under 35%
+340570: fluctuation under 35%
+433530: spac stock
+418170: spac stock
+417840: fluctuation under 35%
+220180: high flat base
+405000: fluctuation under 35%
+037440: fluctuation under 35%
+044060: high or low price
+094850: fluctuation under 35%
+225590: fluctuation under 35%
+029960: fluctuation under 35%
+043220: high or low price
+446840: spac stock
+under 35%
+427950: spac stock
+110020: fluctuation under 35%
+238490: fluctuation under 35%
+004650: fluctuation under 35%
+054300: high or low price
+458610: spac stock
+102940: fluctuation under 35%
+277880: fluctuation under 35%
+032500: high flat base
+054780: fluctuation under 35%
+430230: spac stock
+367000: fluctuation under 35%
+214180: fluctuation under 35%
+278280: fluctuation under 35%
+068050: fluctuation under 35%
+464440: df len problem
+950160: high flat base
+131290: fluctuation under 35%
+435620: spac stock
+219130: fluctuation under 35%
+075130: fluctuation under 35%
+222110: fluctuation under 35%
+023760: high or low price
+033290: fluctuation under 35%
+425420: fluctuation under 35%
+360070: fluctuation under 35%
+299030: fluctuation under 35%
+084990: fluctuation under 35%
+054040: fluctuation under 35%
+271830: fluctuation under 35%
+131100: fluctuation under 35%
+056360: fluctuation under 35%
+065130: fluctuation under 35%
+067310: fluctuation under 35%
+023770: fluctuation under 35%
+263750: fluctuation under 35%
+356860: high flat base
+372290: spac stock
+319400: fluctuation under 35%
+300080: high flat base
+053590: high or low price
+251970: fluctuation under 35%
+166090: fluctuation under 35%
+062860: fluctuation under 35%
+048410: fluctuation under 35%
+032580: high flat base
+032300: fluctuation under 35%
+168360: high flat base
+168360: high current price
+052260: fluctuation under 35%
+037230: fluctuation under 35%
+003380: fluctuation under 35%
+041440: fluctuation under 35%
+241820: fluctuation under 35%
+030520: high flat base
+030520: high current price
+101670: fluctuation under 35%
+237750: fluctuation under 35%
+052600: fluctuation under 35%
+365590: fluctuation under 35%
+090850: fluctuation under 35%
+319660: fluctuation under 35%
+256150: fluctuation under 35%
+149980: fluctuation under 35%
+092300: fluctuation under 35%
+031980: fluctuation under 35%
+092460: fluctuation under 35%
+013030: fluctuation under 35%
+138360: high or low price
+452190: df len problem
+126700: fluctuation under 35%
+011080: high or low price
+047080: fluctuation under 35%
+060560: fluctuation under 35%
+452280: df len problem
+064240: fluctuation under 35%
+066980: high flat base
+039610: fluctuation under 35%
+114810: fluctuation under 35%
+126640: fluctuation under 35%
+070590: fluctuation under 35%
+127980: fluctuation under 35%
+061250: fluctuation under 35%
